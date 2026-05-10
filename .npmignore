@@ -1,0 +1,8 @@
+*.exe
+rustup-init.exe
+solana-install.exe
+.git
+.github
+tests/
+node_modules/
+anchor_project/node_modules/
