@@ -1,0 +1,36 @@
+{
+  "name": "@xaidenlabs/uso",
+  "version": "1.1.67",
+  "description": "Universal Solana Development Toolchain. Native or Stealth WSL Mode. Build, test, and deploy without the friction.",
+  "bin": {
+    "uso": "bin/index.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "templates",
+    "anchor_program",
+    "anchor_project"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solana",
+    "anchor",
+    "web3",
+    "rust",
+    "install",
+    "setup",
+    "developer-tools"
+  ],
+  "author": "Xaiden Labs",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^14.0.3",
+    "ora": "^5.4.1",
+    "shelljs": "^0.10.0"
+  }
+}

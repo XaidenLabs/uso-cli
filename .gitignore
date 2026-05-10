@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+anchor_project/target/
+anchor_project/.anchor/
+.uso/
+packages/uso-core/dist/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
